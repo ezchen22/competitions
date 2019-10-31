@@ -1,2 +1,2 @@
 # competitions
-code from usaco
+code from usaco january and february 2019
